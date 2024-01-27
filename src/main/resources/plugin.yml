@@ -1,0 +1,9 @@
+name: attentati
+version: 1.0
+main: it.cerebotani.Main
+
+commands:
+
+#  esempio:
+#    description: Comando di esempio
+#    usage: usa /esempio oppure /esempio <parola a caso>
